@@ -32,4 +32,9 @@
 
 1. lint&代码格式化
 2. custom server & app
-3. 服务启动端口&环境变量
+3. Global Context
+4. 服务启动端口&环境变量
+5. 自动化测试
+6. monorepo
+7. UI 框架
+8. Model 框架
